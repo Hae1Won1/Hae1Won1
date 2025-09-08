@@ -1,4 +1,3 @@
-# 🎮 Portfolio & Projects
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity Logo" width="180"/>
@@ -7,6 +6,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play Store" width="200"/>
   </a>
 </p>
+
+
+# 🎮 Portfolio & Projects
 
 ---
 
