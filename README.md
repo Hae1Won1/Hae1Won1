@@ -1,5 +1,16 @@
 # 🎮 Portfolio & Projects
 
+## ✅ 배너 이미지
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity Logo" width="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/developer?id=YourDeveloperID">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Google Play Store" width="200"/>
+  </a>
+</p>
+
+---
+
 ## 📘 학력 & 교육
 - 한국폴리텍대학 **하이테크 과정 (1년)** – *증강현실시스템과* 수료 중  
 - 패스트캠퍼스 **[나도 할 수 있는 Java & Spring 웹 개발 종합반]** 온라인 강의 수료
