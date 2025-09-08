@@ -1,6 +1,5 @@
 # 🎮 Portfolio & Projects
 
-## ✅ 배너 이미지
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="Unity Logo" width="180"/>
   &nbsp;&nbsp;&nbsp;
