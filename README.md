@@ -15,7 +15,7 @@
 - **엔진/언어:** Unity, C#  
 - **핵심 메커닉:** 캐치-업그레이드-수집 루프 / 간결한 터치 인터랙션  
 - **기술 포인트:** ScriptableObject로 데이터 분리, Addressables(예정), 경량 UI 흐름 관리  
-- **링크:** [Repo](https://github.com/Hae1Won1/FishMeow) · [Play Store](https://play.google.com/store/apps/details?id=com.one.FishMeow)
+- **링크:** [Repo](https://github.com/Hae1Won1/FishMeow_Update) · [Play Store](https://play.google.com/store/apps/details?id=com.one.FishMeow)
 
 ### 2) C_Sharp_Unity (학습/실험 모음)
 - **내용:** Unity 실습, 미니 샘플, 패턴 실험  
