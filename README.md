@@ -11,23 +11,31 @@
 ---
 
 ## 🧩 Featured Projects
-### 1) FishMeow
+### 1) **Gomoku (오목)**
+- **엔진/언어:** Unity, C#
+- **핵심 기능:** 보드 크기 설정, 흑/백 턴 교대, **5목 승리 감지(4방향 스캔)**
+- **기술 포인트:**
+    - 좌표↔인덱스 매핑, 경계 체크를 포함한 선형 스캔으로 **O(N)** 승리판정(수평/수직/두 대각)
+    - `ScriptableObject`로 게임 설정(사이즈/선공/돌 표기) 분리
+- **링크:** [Repo](https://github.com/Hae1Won1/GOMOKU)
+- 
+### 2) FishMeow
 - **엔진/언어:** Unity, C#  
 - **핵심 메커닉:** 캐치-업그레이드-수집 루프 / 간결한 터치 인터랙션  
 - **기술 포인트:** ScriptableObject로 데이터 분리, Addressables(예정), 경량 UI 흐름 관리  
 - **링크:** [Repo](https://github.com/Hae1Won1/FishMeow_Update) · [Play Store](https://play.google.com/store/apps/details?id=com.one.FishMeow)
 
-### 2) C_Sharp_Unity (학습/실험 모음)
+### 3) C_Sharp_Unity (학습/실험 모음)
 - **내용:** Unity 실습, 미니 샘플, 패턴 실험  
 - **정리 계획:** 씬 별 데모 + README GIF 캡처 추가  
 - **링크:** [Repo](https://github.com/Hae1Won1/C_Sharp_Unity)
 
-### 3) Cplus / algorithmPr (알고리즘)
+### 4) Cplus / algorithmPr (알고리즘)
 - **언어:** C++  
 - **포커스:** 재귀/DP, 백트래킹, 조합 탐색 템플릿화  
 - **링크:** [Cplus](https://github.com/Hae1Won1/Cplus) · [algorithmPr](https://github.com/Hae1Won1/algorithmPr)
 
-### 4) CampSimulation (Fork)
+### 5) CampSimulation (Fork)
 - **의도:** 산불예방 캠핑 시뮬레이션 레퍼런스 분석  
 - **계획:** 포크 기반 학습 내용 PR/이슈 정리  
 - **링크:** [Repo](https://github.com/Hae1Won1/CampSimulation)
